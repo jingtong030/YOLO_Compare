@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/28 20:39
-@Author  : Mjy
+@Author  : ljt
 @Site    : 
 @File    : train.py
 @Software: PyCharm
